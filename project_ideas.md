@@ -3,4 +3,11 @@
 - Ideabook : idea, list
 - Infomata : information, connection, wiki
 - Schedular : gunnt chart, Daily quick plan & check
+- GoodFareWell : honx.in和dolphin解析，目标低成本高速大流量/不限流量
 - ProjectEngine : step plan, data/materials, progress management
+  - AVATAR : 浙大+迪士尼研究所的脸部表情识别 ==> 五官匹配 ==> 虚拟形象映射(2D照片/3D模型)
+  - QR code : 快，准，云
+    - 基于滑动模板的方法？
+    - https://code.google.com/p/qrcore/
+    - http://www.researchgate.net/publication/221337868_Fast_QR_Code_Detection_in_Arbitrarily_Acquired_Images
+    - http://dsynflo.blogspot.com/2014/10/opencv-qr-code-detection-and-extraction.html
