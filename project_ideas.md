@@ -11,3 +11,4 @@
     - https://code.google.com/p/qrcore/
     - http://www.researchgate.net/publication/221337868_Fast_QR_Code_Detection_in_Arbitrarily_Acquired_Images
     - http://dsynflo.blogspot.com/2014/10/opencv-qr-code-detection-and-extraction.html
+- Diary : 日记，当年今日，兴起→习惯和传统的建立
